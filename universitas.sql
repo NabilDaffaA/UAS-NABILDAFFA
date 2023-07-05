@@ -41,9 +41,9 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`id`, `nim`, `nama_mahasiswa`, `jenis_kelamin`, `program_studi`, `keahlian`) VALUES
-(1, 'G231100120', 'Muhammad Hanan', 'Pria', 'Teknik Informatika', 'Data Mining'),
-(2, 'G231100121', 'Arsyavi Pramuditha', 'Wanita', 'Sistem Informasi', 'Data Mining,Software Engineering'),
-(3, 'G231100123', 'Rutin Fisekati', 'Wanita', 'Teknik Informatika', 'Enterprise Architecture');
+(1, 'G231100119', 'Muhammad Habib', 'Pria', 'Teknik Informatika', 'Data Mining'),
+(2, 'G231100120', 'Timur Pramuditha', 'Wanita', 'Sistem Informasi', 'Data Mining,Software Engineering'),
+(3, 'G231100121', 'Fisika Fisekati', 'Wanita', 'Teknik Informatika', 'Enterprise Architecture');
 
 --
 -- Indexes for dumped tables
